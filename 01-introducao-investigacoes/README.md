@@ -2,47 +2,60 @@
 
 ## 📌 Sobre o laboratório
 
-Laboratório realizado na plataforma KC7 como parte da trilha Analista de Segurança I.
+Laboratório realizado na plataforma KC7 como parte da trilha Analista de Segurança I, com foco nos fundamentos de uma investigação de segurança cibernética.
 
-O laboratório apresenta conceitos introdutórios relacionados à investigação de segurança e à análise de dados para identificação de atividades relevantes durante uma investigação.
+O laboratório apresenta um cenário prático de investigação envolvendo análise de registros, identificação de atividades maliciosas e correlação de diferentes fontes de dados.
 
-## 🎯 Objetivo
+## 🎯 Objetivos do laboratório
 
-Praticar fundamentos de investigação de segurança, análise de eventos e busca de informações relevantes em dados de segurança.
+Durante o laboratório foram abordados os seguintes objetivos:
 
-## 🛠️ Plataforma e tecnologias
-
-- KC7 Cyber
-- Análise de logs
-- Investigação de segurança
-- KQL (Kusto Query Language)
+- Identificar elementos de uma campanha de phishing
+- Interpretar registros de segurança em busca de evidências de atividades maliciosas
+- Investigar uma intrusão básica de segurança cibernética
+- Identificar indicadores de phishing
+- Localizar evidências em ambientes Windows
+- Compreender diferentes fontes de logs
+- Correlacionar informações entre diferentes fontes de logs
+- Analisar protocolos de rede
+- Identificar anomalias a partir de linhas de base
+- Compreender o conceito de defesa em camadas
 
 ## 🔍 Processo de investigação
 
-Durante o laboratório, foram analisados dados e eventos relacionados ao cenário proposto pela plataforma KC7.
+O laboratório apresenta conceitos relacionados ao processo utilizado por um analista de segurança durante uma investigação.
 
-O objetivo da análise foi localizar informações relevantes, relacionar diferentes eventos e utilizar os dados disponíveis para avançar na investigação.
+Entre os pontos trabalhados estão:
 
-## 💻 Consultas utilizadas
+- Reconhecimento dos pontos de partida de uma investigação
+- Consulta e análise de registros
+- Priorização das informações que devem ser investigadas
+- Identificação de atividades anormais
+- Formulação e teste de hipóteses
+- Definição do escopo de uma investigação
+- Correlação de evidências
+- Documentação do trabalho realizado
+- Redação de relatórios de incidentes
+- Comunicação das descobertas para públicos não técnicos
 
-Nesta seção serão documentadas algumas das consultas utilizadas durante a investigação.
+## 🧠 Conhecimentos desenvolvidos
 
-## 📊 Evidências da investigação
+A atividade permitiu praticar conceitos fundamentais utilizados em investigações de segurança, principalmente a importância da análise e correlação de diferentes fontes de logs.
 
-Nesta seção serão adicionadas capturas de tela relevantes do processo de investigação.
+Também foram abordados conceitos relacionados à identificação de phishing, evidências em ambientes Windows, análise de tráfego de rede e identificação de comportamentos anormais.
 
-## 🧠 Conhecimentos adquiridos
+Além da parte técnica, o laboratório apresentou habilidades importantes para um analista de segurança, como documentação, definição de prioridades, formulação de hipóteses e comunicação dos resultados de uma investigação.
 
-Durante este laboratório, pratiquei conceitos introdutórios de investigação de segurança e análise de eventos.
+## 🛡️ Competências praticadas
 
-Também pude compreender melhor como informações presentes em diferentes registros podem ser utilizadas para auxiliar uma investigação.
-
-## 🎯 Competências praticadas
-
-- Análise de eventos
-- Investigação de segurança
 - Análise de logs
-- Correlação de informações
-- KQL
-- Fundamentos de Blue Team
-- Fundamentos de SOC
+- Investigação de incidentes
+- Detecção de phishing
+- Correlação de eventos
+- Análise de evidências
+- Fundamentos de redes
+- Segurança Windows
+- Identificação de atividades anormais
+- Documentação de incidentes
+- Blue Team
+- SOC
